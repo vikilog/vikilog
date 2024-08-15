@@ -1,1 +1,34 @@
-![Metrics](https://metrics.lecoq.io/vikilog?template=classic&isocalendar=1&languages=1&stars=1&followup=1&projects=1&code=1&achievements=1&activity=1&tweets=1&posts=1&stackoverflow=1&pagespeed=1&repositories=1&lines=1&discussions=1&base.indepth=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&followup.sections=repositories&followup.indepth=false&projects.limit=4&projects.descriptions=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&discussions.categories=true&discussions.categories.limit=0&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&stackoverflow.user=0&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=2&stackoverflow.lines=4&stackoverflow.lines.snippet=2&tweets.attachments=false&tweets.limit=2&tweets.user=.user.twitter&posts.descriptions=false&posts.covers=false&posts.limit=4&posts.user=.user.login&config.timezone=Asia%2FCalcutta)
+# Hi there, I'm Vikilog! 👋
+
+Welcome to my GitHub profile! I'm a passionate developer, designer, and problem solver, constantly exploring new technologies and creating innovative solutions. Whether it's full-stack development, backend architecture, or designing beautiful UIs, I'm always up for a challenge.
+
+## 🚀 What I Do
+
+- **Fullstack Development:** Building scalable and robust web applications using modern technologies.
+- **Backend Development:** Crafting APIs, microservices, and handling data with efficiency.
+- **UI/UX Design:** Designing intuitive and user-friendly interfaces.
+
+## 🛠 Tech Stack
+
+- **Languages:** JavaScript, TypeScript, Dart, Python, HTML, CSS
+- **Frameworks:** React, Angular, Flutter, NestJS, Node.js
+- **Tools:** Git, Docker, Firebase, MongoDB, PostgreSQL
+- **Design:** Figma, Canva
+
+## 💼 Projects
+
+- **Lazycarts:** A dropshipping store designed to streamline online shopping.
+- **Lazytoon:** A YouTube channel for animated videos targeting children.
+- **Lazybinary:** My company where I work on various tech and design projects.
+
+## 🌍 Let's Connect
+
+- **LinkedIn:** [Your LinkedIn Profile](#)
+- **Twitter:** [Your Twitter Handle](#)
+- **Website:** [Your Portfolio](#)
+
+Feel free to explore my repositories, and if you find something interesting, don't hesitate to reach out or contribute!
+
+---
+
+Happy Coding! 😄
