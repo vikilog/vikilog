@@ -13,7 +13,8 @@ Welcome to my GitHub profile! I'm founder of @lazybinary ,a passionate full stac
 - **Languages:** JavaScript, TypeScript, Dart, Python, HTML, CSS
 - **Frameworks:** React, Angular, Flutter, NestJS, Node.js
 - **Tools:** Git, Docker, Firebase, MongoDB, PostgreSQL
-- **Design:** Figma, Canva
+- **Design:** Figma, Canva, PSD, After Effect
+- **Devops:** AWS, GCP, Azure and Heroku
 
 ## 💼 Projects
 
