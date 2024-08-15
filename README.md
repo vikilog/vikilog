@@ -1,6 +1,6 @@
 # Hi there, I'm Vikilog! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer, designer, and problem solver, constantly exploring new technologies and creating innovative solutions. Whether it's full-stack development, backend architecture, or designing beautiful UIs, I'm always up for a challenge.
+Welcome to my GitHub profile! I'm founder of @lazybinary ,a passionate full stack mobile and web developer, designer, and problem solver, constantly exploring new technologies and creating innovative solutions. Whether it's full-stack development, backend architecture, or designing beautiful UIs, I'm always up for a challenge.
 
 ## 🚀 What I Do
 
@@ -17,15 +17,18 @@ Welcome to my GitHub profile! I'm a passionate developer, designer, and problem 
 
 ## 💼 Projects
 
-- **Lazycarts:** A dropshipping store designed to streamline online shopping.
-- **Lazytoon:** A YouTube channel for animated videos targeting children.
-- **Lazybinary:** My company where I work on various tech and design projects.
+- **Englishyaari:** An English learing platform.
+- **Da Salon job:** A Platform for job posting for salon and finding perfect candidate
+- **Da Salon:** A platform to manage salon and inventery.
+- **Justorder:** A online platform for restaurants
+- **DP2P:** A P2P blockchain payment solution
+- **Storelize:** An Online jewllery promotion website
 
 ## 🌍 Let's Connect
 
-- **LinkedIn:** [Your LinkedIn Profile](#)
-- **Twitter:** [Your Twitter Handle](#)
-- **Website:** [Your Portfolio](#)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/vikilog/)
+- **Twitter:** [Your Twitter Handle](https://x.com/svikasswami03)
+- **Website:** [Your Portfolio](www.lazybinary.com)
 
 Feel free to explore my repositories, and if you find something interesting, don't hesitate to reach out or contribute!
 
